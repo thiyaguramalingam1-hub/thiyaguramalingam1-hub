@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi 👋, I'm Thiyagu Sr
 
-<!--
-**thiyaguramalingam1-hub/thiyaguramalingam1-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Certified Data Analyst | Python • Pandas • NumPy • Power BI
 
-Here are some ideas to get you started:
+## About me
+- 🎓 Certified Data Analyst – SkilloVilla (Data Analytics + Python, Platinum)
+- 📊 I turn raw data into insights through analysis and dashboards
+- 🔗 LinkedIn: https://www.linkedin.com/in/thiyagu-s-r-56379a237/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills & Tools
+Python | Pandas | NumPy | Power BI
+
+## Projects
+- **Python (Pandas, NumPy)** – Employee & project data analysis: merged 3 CSV sources, applied bonus and designation rules
+- **Power BI** – ShopNest Retail Sales & Delivery Performance Dashboard: 8 KPI visuals
